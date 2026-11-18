@@ -1,7 +1,8 @@
 FIRSTGAME Code
-Code written for my first EVER game in unity, a 2D top down dungeon explorer with 2 bosses and 3 enemies.
+Improved to make A* pathfinding movement more natural.
 
 Tech Used
+
 C#
 Unity
 
