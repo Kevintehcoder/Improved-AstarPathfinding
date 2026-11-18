@@ -1,15 +1,18 @@
-FIRSTGAME Code
+# Better PathFinding
 Improved to make A* pathfinding movement more natural.
 
-Tech Used
+## Tech Used
+- C#
+- Unity
 
-C#
-Unity
+## Systems implemented
+- A better A* Pathfinding
+  - Chooses the farthest possible node
+  - Updates on the go
+  - Gets disabled if out of range
+- Scriptable Object
 
-Systems Implemented
-A better A* Pathfinding
-Scriptable Object
+## New knowledge gained
+- Using Slerp
+- Doing vector math (multiplication and application)
 
-New Knowledge gained
-Optimizing path using Physics2D
-Breakpoints for debug
